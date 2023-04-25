@@ -1,6 +1,3 @@
-import sys
-
-
 def is_prime(n):
     if n == 1:
         return False
@@ -89,15 +86,6 @@ def index_array(n):
 #         break
 
 
-# import sys
-#
-# t = int(input())
-#
-# for _ in range(t):
-#     # a,b = map(int, input())
-#     a, b = map(int, sys.stdin.readline().split())
-#
-
 def gcd(x, y):
     if y == 0:
         return x
@@ -117,4 +105,8 @@ def solution(array):
         ans = lst.index(max(lst))
     return ans
 
-solution([1])
+
+print('hihi')
+print('hihi')
+print('hihi')
+print('hihi')
