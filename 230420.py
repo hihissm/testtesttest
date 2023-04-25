@@ -104,16 +104,3 @@ def solution(array):
     else:
         ans = lst.index(max(lst))
     return ans
-
-
-print('hihi')
-print('hihi')
-print('hihi')
-print('hihi')
-
-print('byebye')
-print('byebye')
-print('byebye')
-print('byebye')
-print('byebye')
-print('byebye')
