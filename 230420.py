@@ -104,4 +104,3 @@ def solution(array):
     else:
         ans = lst.index(max(lst))
     return ans
-
